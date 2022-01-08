@@ -1,3 +1,4 @@
+# DumpState
 # Libraries
 *.lvlibp
 *.llb
@@ -10,8 +11,15 @@
 
 # Executables
 *.exe
+*.nomedia
 
 # Metadata
 *.aliases
 *.lvlps
 .cache/
+.jpeg
+.png
+.webm
+.obb
+.data
+.online
